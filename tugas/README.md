@@ -15,10 +15,10 @@
 
 ## TUGAS 2 - Model Accessor & Scope
 - Menampilkan data awal (dummy data) yang berhasil dimasukkan ke tabel buku menggunakan database seeder.
-![Hasil Seeder Tabel Buku](screenshoot/hasilSeeder_tabelBuku.png)
+![Hasil Seeder Tabel Buku](screnshoot/hasilSeeder_tabelBuku.png)
 
 - Menunjukkan proses migration tabel kategori yang berhasil dibuat di database menggunakan Laravel migration.
-![Hasil Migration Kategori](screenshoot/hasilMigration_kategori.png)
+![Hasil Migration Kategori](screnshoot/hasilMigration_kategori.png)
 
 - Menampilkan hasil pengujian aplikasi untuk memastikan fitur berjalan dengan baik tanpa error.
-![Hasil Testing](screenshoot/HasilTesting.png)
+![Hasil Testing](screnshoot/HasilTesting.png)
